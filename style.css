@@ -3,6 +3,13 @@
     padding: 0;
 }
 
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}
 /* Center the dialog and add basic styling */
 dialog {
     margin: auto;
